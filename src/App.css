@@ -1,0 +1,127 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.hero-container {
+    position: relative;
+    z-index: 100;
+}
+
+.hero-text {
+    position: relative;
+    z-index: 200;
+}
+
+.hero-backdrop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    opacity: 0.3;
+}
+
+.home-alok{
+  border: 1px solid red;
+}
+
+.headtext{
+  color: blue;
+}
+
+.headfirst{
+  color: purple;
+  font-weight: bold;
+}
+
+.bgsuc{
+  color: red;
+}
+
+.headsec{
+  font-family: "Sofia", sans-serif;
+}
+
+.headsecg{
+  font-family: cursive;
+  color: blue;
+}
+
+.headsecgo{
+  font-family: monospace;
+  color: #c14e85;
+}
+
+.headsecgt{
+  color: green;
+}
+
+.headt{
+  color: red;
+  text-align: center;
+}
+
+.navdanger{
+  background-color: #ad76ad;
+}
+
+.navdangers{
+  color: white;
+}
+
+.budg{
+  color: #7e7e1b;
+}
+
+.bgh{
+ color: white;
+  font-weight: bold;
+  font-family: cursive;
+}
+
+.bglast{
+  background-image: url('https://previews.123rf.com/images/steveball/steveball1201/steveball120100043/12066290-film-strip-with-motion-blur-background.jpg');
+}
+
+.bghtt{
+  color: blue;
+  font-family: cursive;
+  font-weight: bold;
+  border-radius: 15px;
+}
+
+.bght{
+  color: black;
+  font-family: cursive;
+  font-weight: bold;
+  border-radius: 15px;
+}
+
+.instai{
+  font-size: 48px;
+  color: red;
+}
+
+.fbi{
+  font-size: 48px;
+  color: red;
+  padding-left: 40%;
+}
+
+.twi{
+  font-size:48px;
+  color:red;
+  padding-left: 40%;
+}
+
+.devlast{
+  padding-left: 35%;
+}
+
+.headsecglastl{
+  font-family: Lucida Sans;
+  color: red
+}
